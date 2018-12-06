@@ -89,7 +89,7 @@
 
 
 
-	Cppcon 2017: Peter Goldsborough Tour Of Deep Learning With C++ - Youtube
+	CPP Con 2017: Peter Goldsborough Tour Of Deep Learning With C++ - Youtube
 
 
 
