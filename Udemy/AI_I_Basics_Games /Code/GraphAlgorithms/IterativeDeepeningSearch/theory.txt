@@ -1,0 +1,39 @@
+Iterative deepening DFS: "IDDFS"
+
+		- BFS nagyon elonyos, mert nem maszik el -> de nagyon memoriaigenyes
+		- DFS jo mert nagyon konnyen implementalhato rekurzivan + memory-friendly
+			De nagyon elmaszik
+
+		- a kettobol lehet egy jo keresoalgoritmust kesziteni grafokra: ez az iterative deepening DFS !!!
+
+
+		STRATEGY		FRONTIER SELECTION		HALTS?		SPACE
+
+		 dfs			   last node added		  no		 linear
+		 bfs			   first node added		  yes	 	 exponential
+
+		IDDFS -> lehetne egy olyan kereses, ami linear space complexitivel rendelkezik
+			   es garantaltan haltingol elobb utobb !!!
+
+			~ mindig DFS fogunk futtatni egyre melyebb bejarassal: mindig elolrol kezdjuk, hogy elkeruljuk
+				 a pointerek tarolasat
+			~ nem kell Queue adatszerkezetben tarolni a pointereket: ellenben tobbszor fogunk nodeokon vegigmenni
+				De meg mindig hatekonyabb mint a tarolas!!!		
+
+					0 depth -> a root layere
+					1 depth -> a root elso szomszedjai 
+					2 depth -> ...
+
+				
+						A
+
+					B		C   		faszerkezet
+
+				     D     E	      F   G	
+
+		Elso iteracio: depth = 0 -> A
+		Masodik iteracio: noveljuk egyszer a behatolasi melyseget ->  depth = 1 ->  A-B-C
+		Harmadik iteracio: noveljuk a melyseget -> depth = 2 -> A-B-D-E-C-F-G
+			
+			LINEAR SPACE COMPLEXITY !!! THIS IS THE BENEFIT 
+				~ sokszor ismeteljuk ugyanazt, de az kiesik a complexitybol: O(c*n) = c*(n) ~ O(n)	
