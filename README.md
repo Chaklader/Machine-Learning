@@ -1,338 +1,399 @@
 
 
-	Machine Learning/ AI 
+
+
+	MACHINE LEARNING/ AI 
 	————————————————————
 
-	Machine Learning Crash Course - UC Berkeley 
+		Machine Learning (CS229) -  Andrew Ng, Ron Dror/ Stanford University
 
-	Machine Learning ML - MIT
+		Machine Learning Crash Course - UC Berkeley 
 
-	Prediction: ML And Statistics - MIT
+		Machine Learning ML - MIT
 
+		Prediction: ML And Statistics - MIT
 
 
-	Artificial Intelligence I: Basics And Games In Java - Udemy/ Holczer Balazs
+		Deep Learning (Book) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
-	Artificial Intelligence Ii: Neural Networks In Java- Udemy/ Holczer Balazs
 
-	Artificial Intelligence Iii - Deep Learning In Java - Holczer Balazs/udemy
+		ML/ AI in Java
+		——————————
 
-	Artificial Intelligence Iv - Reinforcement Learning In Java - Holczer Balazs/udemy
+			Artificial Intelligence I: Basics And Games In Java - Udemy/ Holczer Balazs
 
+			Artificial Intelligence Ii: Neural Networks In Java- Udemy/ Holczer Balazs
 
-	IntrodUCtion To Numerical Methods In Java - Udemy/ Holczer Balazs
+			Artificial Intelligence Iii - Deep Learning In Java - Holczer Balazs/udemy
 
+			Artificial Intelligence Iv - Reinforcement Learning In Java - Holczer Balazs/udemy
 
 
-	Foundations Of Machine Learning/ Bloomberg
-	———————————————————-———————————————————-——
+			IntrodUCtion To Numerical Methods In Java - Udemy/ Holczer Balazs
 
-		1. Black Box Machine Learning
 
-		2. Case Study: Churn Prediction
 
-		3. IntrodUCtion To Statistical Learning Theory
 
-		4. Stochastic Gradient Descent
+		Intro to ML - Udacity
 
-		5. Excess Risk Decomposition
+		Machine Learning - Andrew Ng/ Coursera 
 
-		6. L1 And L2 Regularization
+			Introduction
+			Linear Regression with One Variable
+			Linear Algebra Review
+			Linear Regression with Multiple Variables
+			Octave/Matlab Tutorial
+			Logistic Regression
+			Regularization
+			Neural Networks: Representation
+			Neural Networks: Learning
+			Advice for Applying Machine Learning
+			Machine Learning System Design
+			Support Vector Machines
+			Unsupervised Learning
+			Dimensionality Reduction
+			Anomaly Detection
+			Recommender Systems
+			Large Scale Machine Learning
+			Application Example: Photo OCR
 
-		7. Lasso, Ridge, And Elastic Net
 
-		8. Loss Functions For Regression And Classification
 
-		9. Lagrangian Duality And Convex Optimization
 
-		10. Support Vector Machines
+		Foundations Of Machine Learning/ Bloomberg
+		———————————————————-———————————————————-——
 
-		11. Subgradient Descent
+			1. Black Box Machine Learning
 
-		12. Feature Extraction
+			2. Case Study: Churn Prediction
 
-		13. Kernel Methods
+			3. IntrodUCtion To Statistical Learning Theory
 
-		14. Performance Evaluation
+			4. Stochastic Gradient Descent
 
-		15. "Citysense": Probabilistic Modeling For Unusual Behavior Detection
+			5. Excess Risk Decomposition
 
-		16. Maximum Likelihood Estimation
+			6. L1 And L2 Regularization
 
-		17. Conditional Probability Models
+			7. Lasso, Ridge, And Elastic Net
 
-		18. Bayesian Methods
+			8. Loss Functions For Regression And Classification
 
-		19. Bayesian Conditional Probability Models
+			9. Lagrangian Duality And Convex Optimization
 
-		20. Classification And Regression Trees
+			10. Support Vector Machines
 
-		21. Basic Statistics And A Bit Of Bootstrap
+			11. Subgradient Descent
 
-		22. Bagging And Random Forests
+			12. Feature Extraction
 
-		23. Gradient Boosting
+			13. Kernel Methods
 
-		24. Multiclass And IntrodUCtion To StrUCtured Prediction
+			14. Performance Evaluation
 
-		25. K-means Clustering
+			15. "Citysense": Probabilistic Modeling For Unusual Behavior Detection
 
-		26. Gaussian Mixture Models
+			16. Maximum Likelihood Estimation
 
-		27. Em Algorithm For Latent Variable Models
+			17. Conditional Probability Models
 
-		28. Neural Networks
+			18. Bayesian Methods
 
-		29. Backpropagation And The ChAIn Rule
+			19. Bayesian Conditional Probability Models
 
-		30. Next Steps
+			20. Classification And Regression Trees
 
+			21. Basic Statistics And A Bit Of Bootstrap
 
+			22. Bagging And Random Forests
 
-	CPP Con 2017: Peter Goldsborough Tour Of Deep Learning With C++ - Youtube
+			23. Gradient Boosting
 
+			24. Multiclass And IntrodUCtion To StrUCtured Prediction
 
+			25. K-Means Clustering
 
+			26. Gaussian Mixture Models
 
+			27. EM Algorithm For Latent Variable Models
 
-	Machine Learning In Java - Bostjan Kaluza/ Packt
+			28. Neural Networks
 
-	Natural Language Processing With Java -  Richard M. Reese/ Packt 
+			29. Backpropagation And The ChAIn Rule
 
+			30. Next Steps
 
 
 
-	Lazy Programmer Inc - Udemy 
-	———————————————————————————
+		CPP Conference 2017: Tour Of Deep Learning With C++ - Peter Goldsborough/ Youtube
 
-	The Numpy Stack In Python - Udemy 
 
-	Linear Regression In Python - Udemy 
 
-	Logistic Regression In Python - Udemy 
+		Machine Learning In Java - Bostjan Kaluza/ Packt
 
-	Modern Deep Learning In Python - Udemy 
+		Natural Language Processing With Java -  Richard M. Reese/ Packt 
 
-	Deep Learning In Python (D-1)- Udemy 
 
-	Practical Deep Learning In Theano And Tensorflow (D-2) - Udemy 
 
-	Convolutional Neural Networks In Theano And Tensorflow (D-3)- Udemy 
 
-	Unsupervised Deep Learning In Python (D-4)- Udemy 
+		Lazy Programmer Inc - Udemy 
+		———————————————————————————
 
-	Recurrent Neural Networks In Python (D-5)- Udemy 
+			The Numpy Stack In Python - Udemy 
 
-	Advanced Natural Language Processing In Python (D-6)- Udemy 
+			Linear Regression In Python - Udemy 
 
-	Advanced Computer Vision - Udemy 
+			Logistic Regression In Python - Udemy 
 
-	Artificial Intelligence: Reinforcement Learning In Python - Udemy 
+			Modern Deep Learning In Python - Udemy 
 
-	Advanced AI: Deep Reinforcement Learning In Python - Udemy
+			Deep Learning In Python (D-1)- Udemy 
 
-	Deep Learning: Advanced Nlp And Rnns - Udemy
+			Practical Deep Learning In Theano And Tensorflow (D-2) - Udemy 
 
-	Deep Learning: Gans And Variational Auto-encoders - Udemy
+			Convolutional Neural Networks In Theano And Tensorflow (D-3)- Udemy 
 
-	Easy Natural Language Processing In Python - Udemy 
+			Unsupervised Deep Learning In Python (D-4)- Udemy 
 
-	Data Science: Supervised Machiene Learnirng In Python - Udemy 
+			Recurrent Neural Networks In Python (D-5)- Udemy 
 
-	Cluster Analysis And Unsupervised Machine Learning In Python - Udemy 
+			Easy Natural Language Processing In Python - Udemy 
 
-	Unsupervised Machien Learning: Hidden Markov Models In Python - Udemy 
+			Advanced Natural Language Processing In Python (D-6)- Udemy 
 
-	Bayesian Machien Learning In Python: A/b Testing - Udemy 
+			Advanced Computer Vision - Udemy 
 
-	Ensemble Machine Learning In Python: Random Forest And Adaboost - Udemy 
+			Artificial Intelligence: Reinforcement Learning In Python - Udemy 
 
-	Recommender Systems And Deep Learning In Python - Udemy 
+			Advanced AI: Deep Reinforcement Learning In Python - Udemy
 
+			Deep Learning: Advanced NLP And RNNs - Udemy
 
+			Deep Learning: GANs And Variational Auto-encoders - Udemy
 
+			Data Science: Supervised Machiene Learnirng In Python - Udemy 
 
-	Numpy - Scipy Lecture Notes
+			Cluster Analysis And Unsupervised Machine Learning In Python - Udemy 
 
-	Pandas/ Data Wrangling - Chris Albon Notes 
+			Unsupervised Machien Learning: Hidden Markov Models In Python - Udemy 
 
+			Bayesian Machien Learning In Python: A/b Testing - Udemy 
 
+			Ensemble Machine Learning In Python: Random Forest And Adaboost - Udemy 
 
-	Deep Reinforcement Learning Nanodegree - Udacity
+			Recommender Systems And Deep Learning In Python - Udemy 
 
 
-	UC Berkley/ Stanford Courses 
-	————————————————————————————
 
-	Reinforcement Learning  - David Silver, UCl/youtube 
 
-	Deep Reinforcement Learning - Sergey Levine/UC Berkeley
+		Numpy - Scipy Lecture Notes
 
-	Designing, Visualizing And Understanding Deep Learning Network - University Of California, Berkeley 
+		Pandas/ Data Wrangling - Chris Albon Notes 
 
-	Unsupervised Feature Learning And Deep Learning - Stanford University 
 
+		Deep Reinforcement Learning Nanodegree - Udacity
 
 
-	Intro To Nlp - Dan Jurafsky And Christopher Manning/ Stanford University
 
-	Deep Learning For Natural Language Processing - Stanford University
+		UC Berkley/ Stanford Courses 
+		————————————————————————————
 
 
+			Machine Learning (CS229) -  Andrew Ng, Ron Dror/ Stanford University
 
+			Reinforcement Learning  - David Silver, UCl/youtube 
 
+			Deep Reinforcement Learning - Sergey Levine/UC Berkeley
 
-	Deep Learning Specialization - Andrew Ng/ Coursera 
-	———————————————————————————————————————
+			Designing, Visualizing And Understanding Deep Learning Network - University Of California, Berkeley 
 
-	Neural Networks And Deep Learning - Coursera 
+			Unsupervised Feature Learning And Deep Learning - Stanford University 
 
-	Improving Deep Neural Networks: Hyperparameter Tuning, Regularization 
-	And Optimization - Coursera 
 
-	StrUCturing Machine Learning Projects - Coursera 
 
-	Convolutional Neural Networks - Coursera 
+			Intro To NLP - Dan Jurafsky And Christopher Manning/ Stanford University
 
-	Sequence Models - Coursera 
+			Deep Learning For Natural Language Processing - Stanford University
 
 
 
 
+		Deep Learning Specialization - Andrew Ng/ Coursera 
+		——————————————————————————————————————————————————
 
-	Weka Framework
-	——————————————
-	Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
+			Neural Networks And Deep Learning - Coursera 
 
-	Advanced Data Mining With Weka  - Future Learn/ Prof Ian H. Witten 
+			Improving Deep Neural Networks: Hyperparameter Tuning, Regularization 
+			And Optimization - Coursera 
 
-	More Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
+			StrUCturing Machine Learning Projects - Coursera 
 
+			Convolutional Neural Networks - Coursera 
 
+			Sequence Models - Coursera 
 
 
-	Machile Learning Crush Curse - Google 
 
 
 
+		Weka Framework
+		——————————————
+		Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
 
-	Probabilistic Graphical Models Specialization 
-	—————————————————————————————————————————————
+		Advanced Data Mining With Weka  - Future Learn/ Prof Ian H. Witten 
 
-	Probabilistic Graphical Models I: Representation - Stanford University 
+		More Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
 
-	Probabilistic Graphical Models Ii: Inference - Stanford University 
 
-	Probabilistic Graphical Models Iii: Learning - Stanford University 
 
+		Machile Learning Crush Curse - Google 
 
 
+		Probabilistic Graphical Models Specialization 
+		—————————————————————————————————————————————
 
+			Probabilistic Graphical Models I: Representation - Stanford University 
 
+			Probabilistic Graphical Models Ii: Inference - Stanford University 
 
+			Probabilistic Graphical Models Iii: Learning - Stanford University 
 
 
 
-	Mathmatics 
+
+
+
+
+
+	MATHMATICS 
 	——————————
 
 
+		Bloomberg Mathematics Recommendation  
+		———————————————————-———————————
 
-	Bloomberg Course Recommendation  
-	———————————————————-———————————
+			Carlos Fernandez-granda's Mathematics Lecture Notes
 
-	Carlos Fernandez-granda's Mathematics Lecture Notes
+			Mathematics For Machine Learning -  Garrett Thomas/ UC Berkeley
 
-	Mathematics For Machine Learning -  Garrett Thomas/ UC, Berkeley
+			Linear Algebra Review And Reference - Zico Kolter 
 
-	Linear Algebra Review And Reference - Zico Kolter 
+			Review Of Probability Theory - Arian Maleki, Tom Do/ Stanford University
 
-	Review Of Probability Theory - Arian Maleki, Tom Do/ Stanford University
-
-	Mathematics Of Machine Learning - MIT 
-
+			Mathematics Of Machine Learning - MIT 
 
 
 
-	———————————————————-———————————————
-	Matrix Calculus - ExplAIned.AI
+		Matrix Calculus - ExplAIned.AI
 
-	Numerical La - Princeton University 
+		Numerical La - Princeton University 
 
-	Mathematics For Rl - Lpalmieri.com 
-	———————————————————-———————————————
+		Mathematics For Rl - Lpalmieri.com 
 
 
 
-	Intro To Probability And Statistics - MIT
+		Intro To Probability And Statistics - MIT
 
-	Linear Algebra - MIT
+		Linear Algebra - MIT
 
-	Single Variable Calculus - MIT
+		Single Variable Calculus - MIT
 
-	Multi-variable Calculus - MIT
+		Multi-variable Calculus - MIT
 
-	Differential Equations - MIT
+		Differential Equations - MIT
 
-	Mathematics Of Machine Learning - MIT
+		Mathematics Of Machine Learning - MIT
 
-	Statistical Learning Theory - MIT
+		Statistical Learning Theory - MIT
 
-	Statistical Learning Theory - UC Berkley 
-
-
-
-	Math Background For ML Series - Geoff Gordon/ Carnegie Mellon University, Cmu Youtube 
-
-	ML Mathematics Videos Videos (Visualization Purpsoe) - 3_blue_1_brown/ Youtube Videos 
-
-
-	Coding The Matrix: Linear Algebra Through Computer Science Application - Brown University/ Philip Klein
+		Statistical Learning Theory - UC Berkley 
 
 
 
-	Topics In Mathematics With Applications In Finance - MIT Ocw
+		Math Background For ML Series - Geoff Gordon/ Carnegie Mellon University, CMU Youtube 
 
-	Analytics Of Finance - MIT 
+		ML Mathematics Videos Videos (Visualization Purpsoe) - 3 Blue 1 Brown/ Youtube Videos 
+
+		Coding The Matrix: Linear Algebra Through Computer Science Application - Brown University/ Philip Klein
+
+
+		Topics In Mathematics With Applications In Finance - MIT 
+
+		Analytics Of Finance - MIT 
+
+		Investment - MIT
+
+		
 
 
 
 
-
-	Finance  
+	FINANCE
 	———————
 
 
-	Machine Learning For Trading - Udacity
+		Machine Learning For Trading - Udacity
 
-	Computational Investing - Coursera 
-
-
-
-	Quantitative Finance & Algorithmic Trading I  - Holczer Balazs/ Udemy
-
-	Quantitative Finance & Algorithmic Trading Ii - Holczer Balazs/ Udemy
+		Computational Investing - Coursera 
 
 
+		Quantitative Finance & Algorithmic Trading I  - Holczer Balazs/ Udemy
 
-	ML/ Reinforcement Learning In Finance Specialization - NYU/ Coursera
-	————————————————————————————————————————————————————————————————————
-
-	Guided Tour Of Machine Learning In Finance - NYU/ Coursera
-
-	Fundamentals Of Machine Learning In Finance - NYU/ Coursera
-
-	Reinforcement Learning In Finance - NYU/ Coursera
-
-	Overview Of Advanced Methods Of Reinforcement Learning In Finance - NYU/ Coursera
+		Quantitative Finance & Algorithmic Trading Ii - Holczer Balazs/ Udemy
 
 
-	Artificial Intelligence For Trading Nanodegree - Udacity
+		PRICING OPTIONS WITH MATHEMATICAL MODELS - CALTECH/ EDX 
 
 
 
+		ML/ Reinforcement Learning In Finance Specialization - NYU/ Coursera
+		————————————————————————————————————————————————————————————————————
 
-	Quantopian - EdUCation For The Quantitative Finance
+		Guided Tour Of Machine Learning In Finance - NYU/ Coursera
+
+		Fundamentals Of Machine Learning In Finance - NYU/ Coursera
+
+		Reinforcement Learning In Finance - NYU/ Coursera
+
+		Overview Of Advanced Methods Of Reinforcement Learning In Finance - NYU/ Coursera
+
+
+
+
+		Artificial Intelligence For Trading Nanodegree - Udacity
+		————————————————————————————————————————————————————————
+
+			P-I:   Term I: Quantitative Trading
+			P-II:  Basic Quantitative Trading
+			P-III: Advanced Quantitative Trading
+			P-IV:  Stocks, Indices, and ETFs
+			P-V:   Multi-factor models
+
+
+		Term II: AI Algorithms in Trading
+
+			P-I:   Sentiment Analysis with Natural Language Processing
+			P-II:  Advanced Natural Language Processing with Deep Learning
+			P-III: Simulating Trades with Historical Data
+			P-IV:  Combining Multiple Signals
+
+
+
+		Quantopian - EdUCation For The Quantitative Finance
+
+
+
+
+	BOOKS
+	—————
+
+		Deep Learning - Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+		An Introduction to Quantitative Finance - Stephen Blyth
+
+		Bayesian Methods For Hackers: Probabilistic Programming - Cameron Davidson-pilon
+
+		
 
 
 
