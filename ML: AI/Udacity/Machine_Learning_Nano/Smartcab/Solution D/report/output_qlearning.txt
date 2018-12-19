@@ -1,0 +1,844 @@
+
+*** parameters: epsilon: 1, alpha 0.2, gamma: 0.5
+************************************************
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+
+*** parameters: epsilon: 0.1, alpha 0.2, gamma: 0.5
+************************************************
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+
+*** parameters: epsilon: 0.1, alpha 0.2, gamma: 0.8
+************************************************
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+
+*** parameters: epsilon: 0.1, alpha 0.1, gamma: 0.8
+************************************************
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+
+*** parameters: epsilon: 0.1, alpha 0.1, gamma: 0.9
+************************************************
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+
+*** parameters: epsilon: 0.1, alpha 0.5, gamma: 0.9
+************************************************
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+
+*** parameters: epsilon: 0.05, alpha 0.1, gamma: 0.9
+************************************************
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+
+*** parameters: epsilon: 0.05, alpha 0.05, gamma: 0.9
+************************************************
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time
+- Agent hasn't reached the destination on time
+- Agent hasn't reached the destination on time
++ Agent reached the destination on time
++ Agent reached the destination on time

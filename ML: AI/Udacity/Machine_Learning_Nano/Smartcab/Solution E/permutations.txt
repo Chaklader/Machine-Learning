@@ -1,0 +1,105 @@
+Test Case: State:light
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Test Case: next_waypoint
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent has reached destination!
+Test Case: destination
+Primary agent has reached destination!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Test Case: location
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Test Case: heading
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent has reached destination!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!
+Primary agent could not reach destination within deadline!

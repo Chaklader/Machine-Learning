@@ -32,8 +32,6 @@
 			IntrodUCtion To Numerical Methods In Java - Udemy/ Holczer Balazs
 
 
-
-
 		Intro to ML - Udacity
 
 		Machine Learning - Andrew Ng/ Coursera 
@@ -238,15 +236,17 @@
 
 		Weka Framework
 		——————————————
-		Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
-
-		Advanced Data Mining With Weka  - Future Learn/ Prof Ian H. Witten 
-
-		More Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
+	
+			Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
+	
+			Advanced Data Mining With Weka  - Future Learn/ Prof Ian H. Witten 
+	
+			More Data Mining With Weka - Future Learn/ Prof Ian H. Witten 
 
 
 
 		Machile Learning Crush Curse - Google 
+
 
 
 		Probabilistic Graphical Models Specialization 
@@ -286,9 +286,9 @@
 
 		Matrix Calculus - ExplAIned.AI
 
-		Numerical La - Princeton University 
+		Numerical Linear Algebra (LA) - Princeton University 
 
-		Mathematics For Rl - Lpalmieri.com 
+		Mathematics For RL - Lpalmieri.com 
 
 
 
@@ -312,14 +312,14 @@
 
 		Math Background For ML Series - Geoff Gordon/ Carnegie Mellon University, CMU Youtube 
 
-		ML Mathematics Videos Videos (Visualization Purpsoe) - 3 Blue 1 Brown/ Youtube Videos 
+		ML Mathematics Videos Videos (Visualization Purpsoe) - 3-Blue-1-Brown/ Youtube Videos 
 
 		Coding The Matrix: Linear Algebra Through Computer Science Application - Brown University/ Philip Klein
 
 
 		Topics In Mathematics With Applications In Finance - MIT 
 
-		Analytics Of Finance - MIT 
+		Analytics Of Finance I & II - MIT 
 
 		Investment - MIT
 
@@ -349,13 +349,13 @@
 		ML/ Reinforcement Learning In Finance Specialization - NYU/ Coursera
 		————————————————————————————————————————————————————————————————————
 
-		Guided Tour Of Machine Learning In Finance - NYU/ Coursera
-
-		Fundamentals Of Machine Learning In Finance - NYU/ Coursera
-
-		Reinforcement Learning In Finance - NYU/ Coursera
-
-		Overview Of Advanced Methods Of Reinforcement Learning In Finance - NYU/ Coursera
+			Guided Tour Of Machine Learning In Finance - NYU/ Coursera
+	
+			Fundamentals Of Machine Learning In Finance - NYU/ Coursera
+	
+			Reinforcement Learning In Finance - NYU/ Coursera
+	
+			Overview Of Advanced Methods Of Reinforcement Learning In Finance - NYU/ Coursera
 
 
 
@@ -379,7 +379,7 @@
 
 
 
-		Quantopian - EdUCation For The Quantitative Finance
+		Quantopian - Education For The Quantitative Finance
 
 
 
