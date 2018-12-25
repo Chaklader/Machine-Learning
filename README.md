@@ -189,7 +189,20 @@
 		Pandas/ Data Wrangling - Chris Albon Notes 
 
 
-		Deep Reinforcement Learning Nanodegree - Udacity
+
+		Udacity Nanodegree
+		——————————————————
+
+			Deep Reinforcement Learning Nanodegree - Udacity
+
+			Artificial Intelligence Nanodegree - Udacity
+
+
+
+			Machine Learning Nanodegree - Udacity
+
+			Predictive Analytics for Business - Udacity
+
 
 
 
@@ -392,6 +405,17 @@
 		An Introduction to Quantitative Finance - Stephen Blyth
 
 		Bayesian Methods For Hackers: Probabilistic Programming - Cameron Davidson-pilon
+
+
+
+
+		Dynamic Hedging: Managing Vanilla and Exotic Options - Nassim Taleb
+
+		Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Taleb 
+
+
+
+		
 
 		
 
