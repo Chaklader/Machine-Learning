@@ -5,18 +5,18 @@
 	MACHINE LEARNING/ AI 
 	————————————————————
 
-		Machine Learning (CS229) -  Andrew Ng, Ron Dror/ Stanford University
-
-		Machine Learning Crash Course - UC Berkeley 
-
 		Machine Learning ML - MIT
 
 		Prediction: ML And Statistics - MIT
 
 
+		Machine Learning (CS229) -  Andrew Ng, Ron Dror/ Stanford University
+
+		Machine Learning Crash Course - UC Berkeley 
+
 		Deep Learning (Book) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
-		
+
 
 		Foundations of Data Science (Book) - Avrim Blum, John Hopcroft, Ravi Kannan
 
