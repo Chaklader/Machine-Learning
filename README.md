@@ -16,6 +16,31 @@
 
 		Deep Learning (Book) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
+		
+
+		Foundations of Data Science (Book) - Avrim Blum, John Hopcroft, Ravi Kannan
+
+		Foundations of Data Science - Microsoft Videos Lectures 
+
+			L-1: Foundations of Data Science
+
+			L-2: Foundations of Data Science
+			
+			L-3: Foundations of Data Science
+			
+			L-4: Foundations of Data Science
+			
+			L-5: Foundations of Data Science: Length Squared Sampling in Matrices
+			
+			L-6: Foundations of Data Science: Singular Value Decomposition – I
+			
+			L-7: Foundations of Data Science: Singular Value Decomposition – II
+
+			L-8: Foundations of Data Science: Low Rank Approximation (LRA) via Length Squared Sampling
+
+			L-9: Foundations of Data Science: Two Applications of SVD
+
+
 
 		ML/ AI in Java
 		——————————
