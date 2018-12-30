@@ -329,6 +329,8 @@
 
 		Coding The Matrix: Linear Algebra Through Computer Science Application - Brown University/ Philip Klein
 
+		Seeing Theory - Brown University [https://seeing-theory.brown.edu/]
+
 
 		Topics In Mathematics With Applications In Finance - MIT 
 
