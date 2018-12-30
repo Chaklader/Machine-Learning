@@ -429,14 +429,17 @@
 
 		Deep Learning - Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
-		An Introduction to Quantitative Finance - Stephen Blyth
+		Foundations of Data Science - Avrim Blum, John Hopcroft, Ravi Kannan
 
 		Bayesian Methods For Hackers: Probabilistic Programming - Cameron Davidson-pilon
 
 
 
+		An Introduction to Quantitative Finance - Stephen Blyth
 
 		Dynamic Hedging: Managing Vanilla and Exotic Options - Nassim Taleb
+
+		The Physics of Wall Street: A Brief History of Predicting the Unpredictable  - James Owen Weatherall
 
 		Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Taleb 
 
