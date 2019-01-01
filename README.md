@@ -378,7 +378,10 @@
 
 		Classification-Based Machine Learning for Finance - Udemy 
 
-		Stock Technical Analysis with Excel - Udemy 
+		Stock Technical Analysis with Excel - Udemy
+
+		Stock Fundamental Analysis with Excel - Udemy
+ 
 
 		Quantitative Finance & Algorithmic Trading I  - Holczer Balazs/ Udemy
 
