@@ -376,7 +376,12 @@
 
 		Computational Investing - Coursera 
 
+
 		Classification-Based Machine Learning for Finance - Udemy
+
+		Stock Technical Analysis with Python - Udemy 
+
+		Business Statistics with Python - Udemy 
 
 
 
