@@ -376,13 +376,16 @@
 
 		Computational Investing - Coursera 
 
+		Classification-Based Machine Learning for Finance - Udemy 
+
+		Stock Technical Analysis with Excel - Udemy 
 
 		Quantitative Finance & Algorithmic Trading I  - Holczer Balazs/ Udemy
 
 		Quantitative Finance & Algorithmic Trading Ii - Holczer Balazs/ Udemy
 
 
-		PRICING OPTIONS WITH MATHEMATICAL MODELS - CALTECH/ EDX 
+		Pricing Options With Mathematical Models - Caltech/ Edx 
 
 
 
