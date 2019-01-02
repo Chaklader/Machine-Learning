@@ -320,8 +320,8 @@
 						                   figure: Zoo of NN
 
 
-<img src="https://github.com/Chaklader/Machine-Learning/blob/master/Resources/Zoo_of_NN.jpg" width="48">
-						                   
+<img src="https://github.com/Chaklader/Machine-Learning/blob/master/Resources/Zoo_of_NN.jpg" width="480">
+
 
 
 
