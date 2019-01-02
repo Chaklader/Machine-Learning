@@ -302,7 +302,7 @@
 
 
 
-			![Zoo of Neural Networks](https://github.com/Chaklader/Machine-Learning/blob/master/Resources/Zoo_of_NN.jpg)
+![Zoo of Neural Networks](https://github.com/Chaklader/Machine-Learning/blob/master/Resources/Zoo_of_NN.jpg)
 						figure: Zoo of NN
 
 
