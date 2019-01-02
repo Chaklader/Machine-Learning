@@ -305,10 +305,10 @@
 
 
 
-<p align="center">
-    <img src="https://github.com/Chaklader/Machine-Learning/blob/master/Resources/Zoo_of_NN.jpg" width="480">
-    <figcaption>Zoo of NN</figcaption>
-</p>
+<div align="center">
+    <img src="https://github.com/Chaklader/Machine-Learning/blob/master/Resources/Zoo_of_NN.jpg" width="700" height="500" alt="Zoo of NN">
+    <div>Zoo of NN</div>
+</div>
 
 
 
