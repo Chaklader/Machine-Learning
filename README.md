@@ -307,7 +307,7 @@
 
 <div align="center">
     <img src="https://github.com/Chaklader/Machine-Learning/blob/master/Resources/Zoo_of_NN.jpg" width="550" alt="Zoo of NN">
-    <div>Zoo of NN</div>
+    <div>figure: Zoo of NN</div>
 </div>
 
 
