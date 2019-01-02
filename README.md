@@ -215,13 +215,15 @@
 
 
 
+		Reinforcement Learning  - Udacity
+
+
 		Udacity Nanodegree
 		——————————————————
 
 			Deep Reinforcement Learning Nanodegree - Udacity
 
 			Artificial Intelligence Nanodegree - Udacity
-
 
 
 			Machine Learning Nanodegree - Udacity
@@ -237,7 +239,7 @@
 
 			Machine Learning (CS229) -  Andrew Ng, Ron Dror/ Stanford University
 
-			Reinforcement Learning  - David Silver, UCl/youtube 
+			Reinforcement Learning  - David Silver, UCL/Youtube 
 
 			Deep Reinforcement Learning - Sergey Levine/UC Berkeley
 
@@ -299,6 +301,8 @@
 
 
 
+
+			![Zoo of Neural Networks](http://url/to/img.png)
 
 
 
