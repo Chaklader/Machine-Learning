@@ -464,8 +464,11 @@
 		Bayesian Methods For Hackers: Probabilistic Programming - Cameron Davidson-pilon
 
 
+		Advances in Financial Machine Learning -  Marcos Lopez de Prado
 
 		An Introduction to Quantitative Finance - Stephen Blyth
+
+
 
 		Dynamic Hedging: Managing Vanilla and Exotic Options - Nassim Taleb
 
