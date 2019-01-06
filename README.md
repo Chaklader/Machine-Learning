@@ -323,7 +323,7 @@
 
 
 		Bloomberg Mathematics Recommendation  
-		———————————————————-———————————
+		———————————————————-————————————————
 
 			Carlos Fernandez-granda's Mathematics Lecture Notes
 
@@ -334,6 +334,24 @@
 			Review Of Probability Theory - Arian Maleki, Tom Do/ Stanford University
 
 			Mathematics Of Machine Learning - MIT 
+
+
+
+		Stanford Mathematics Recommendation
+		———————————————————-———————————————
+
+			Linear Algebra Review and Reference - Zico Kolter
+
+			Probability Theory Review for Machine Learning - Samuel Ieong
+
+			Convex Optimization Overview  I - Zico Kolter
+
+			Convex Optimization Overview  II - Chuong B. Do
+
+			Hidden Markov Models Fundamentals - Daniel Ramage
+
+			Gaussian processes - Chuong B. Do
+		
 
 
 
