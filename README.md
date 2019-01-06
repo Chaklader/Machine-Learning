@@ -451,19 +451,22 @@
 		Artificial Intelligence For Trading Nanodegree - Udacity
 		————————————————————————————————————————————————————————
 
-			P-I:   Term I: Quantitative Trading
-			P-II:  Basic Quantitative Trading
-			P-III: Advanced Quantitative Trading
-			P-IV:  Stocks, Indices, and ETFs
-			P-V:   Multi-factor models
+
+			Term I: Quantitative Trading
+
+				P-I:   Term I: Quantitative Trading
+				P-II:  Basic Quantitative Trading
+				P-III: Advanced Quantitative Trading
+				P-IV:  Stocks, Indices, and ETFs
+				P-V:   Multi-factor models
 
 
-		Term II: AI Algorithms in Trading
+			Term II: AI Algorithms in Trading
 
-			P-I:   Sentiment Analysis with Natural Language Processing
-			P-II:  Advanced Natural Language Processing with Deep Learning
-			P-III: Simulating Trades with Historical Data
-			P-IV:  Combining Multiple Signals
+				P-I:   Sentiment Analysis with Natural Language Processing
+				P-II:  Advanced Natural Language Processing with Deep Learning
+				P-III: Simulating Trades with Historical Data
+				P-IV:  Combining Multiple Signals
 
 
 
