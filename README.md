@@ -256,6 +256,23 @@
 
 
 
+
+		Recommender Systems Specialization - University of Minnesota
+		————————————————————————————————————————————————————————————
+
+			Introduction to Recommender Systems: Non-Personalized and Content-Based
+
+			Nearest Neighbor Collaborative Filtering
+
+			Recommender Systems: Evaluation and Metrics
+
+			Matrix Factorization and Advanced Techniques
+
+			Recommender Systems Capstone
+
+
+
+
 		Deep Learning Specialization - Andrew Ng/ Coursera 
 		——————————————————————————————————————————————————
 
