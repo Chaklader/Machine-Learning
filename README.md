@@ -12,6 +12,7 @@
 
 		Machine Learning (CS229) -  Andrew Ng, Ron Dror/ Stanford University
 
+
 		Machine Learning Crash Course - UC Berkeley 
 
 		Deep Learning (Book) - Ian Goodfellow, Yoshua Bengio and Aaron Courville
@@ -184,6 +185,8 @@
 
 			Advanced Natural Language Processing In Python (D-6)- Udemy 
 
+			Support Vector Machines in Python - Udemy
+
 			Advanced Computer Vision - Udemy 
 
 			Artificial Intelligence: Reinforcement Learning In Python - Udemy 
@@ -281,7 +284,7 @@
 			Improving Deep Neural Networks: Hyperparameter Tuning, Regularization 
 			And Optimization - Coursera 
 
-			StrUCturing Machine Learning Projects - Coursera 
+			Structuring Machine Learning Projects - Coursera 
 
 			Convolutional Neural Networks - Coursera 
 
