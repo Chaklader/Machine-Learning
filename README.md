@@ -55,6 +55,9 @@
 			Artificial Intelligence Iv - Reinforcement Learning In Java - Holczer Balazs/udemy
 
 
+			Search Algorithms in Artificial Intelligence with Java - Udemy
+
+
 			IntrodUCtion To Numerical Methods In Java - Udemy/ Holczer Balazs
 
 
@@ -208,6 +211,9 @@
 			Ensemble Machine Learning In Python: Random Forest And Adaboost - Udemy 
 
 			Recommender Systems And Deep Learning In Python - Udemy 
+
+			Machine Learning and AI: Support Vector Machines in Python - Udemy 
+
 
 
 
@@ -517,6 +523,14 @@
 
 		Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Taleb 
 
+
+
+
+	PAPERS
+	——————
+	
+
+		Papers with code - <https://paperswithcode.com/>
 
 
 		
