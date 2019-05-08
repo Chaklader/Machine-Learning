@@ -54,9 +54,7 @@
 
 			Artificial Intelligence Iv - Reinforcement Learning In Java - Holczer Balazs/udemy
 
-
 			Search Algorithms in Artificial Intelligence with Java - Udemy
-
 
 			IntrodUCtion To Numerical Methods In Java - Udemy/ Holczer Balazs
 
@@ -195,6 +193,8 @@
 			Artificial Intelligence: Reinforcement Learning In Python - Udemy 
 
 			Advanced AI: Deep Reinforcement Learning In Python - Udemy
+
+			Cutting-Edge AI: Deep Reinforcement Learning in Python - Udemy 
 
 			Deep Learning: Advanced NLP And RNNs - Udemy
 
